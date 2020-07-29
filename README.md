@@ -3,6 +3,8 @@
 <!--
 **cosmicoder/cosmicoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Dreamer, problem-solver, astronomer-in-the-making. Inspired by human ingenuity & captivated by all things cosmos.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
