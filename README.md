@@ -1,9 +1,9 @@
 ### README
---> Dreamer 🤔, problem-solver ⚡, astronomer-in-the-making 🔭. 
+Dreamer 🤔, problem-solver ⚡, astronomer-in-the-making 🔭. 
 
---> I am inspired by human ingenuity & captivated by all things cosmos. 
+I am inspired by human ingenuity & captivated by all things cosmos. 
 
---> Working on brown dwarf and variable star research!
+Working on brown dwarf and variable star research!
 
 <!--
 **cosmicoder/cosmicoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
