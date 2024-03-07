@@ -2,9 +2,6 @@
 Dreamer 🤔, problem-solver ⚡, astronomer-in-the-making 🔭. 
 
 I am inspired by human ingenuity and captivated by all things cosmos. 
-
-Working on exoplanet imaging, brown dwarf population synthesis and variable star research!
-
 <!--
 **cosmicoder/cosmicoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
